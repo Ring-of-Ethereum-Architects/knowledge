@@ -1,6 +1,6 @@
 //Disclaimer: work in progress
 
-**A lot of thanks** for all [Ethereum Architects](https://github.com/Ring-of-Ethereum-Architects/knowledge/wiki/list-of-architects) contributed to this knowledge base.
+**A lot of thanks** for all [Ethereum Architects](List-of-Architects.md) contributed to this knowledge base.
 
 Please visit [our wiki](https://github.com/Ring-of-Ethereum-Architects/knowledge/wiki) for more details about our work process or **if you would like to contribute**.
 
