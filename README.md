@@ -2,7 +2,9 @@
 
 **A lot of thanks** for all [Ethereum Architects](List-of-Architects.md) contributed to this knowledge base.
 
-Please visit [our wiki](https://github.com/Ring-of-Ethereum-Architects/knowledge/wiki) for more details about our work process or **if you would like to contribute**.
+**If you would like to join** [add youself to the List of Ethereum Architects](https://github.com/Ring-of-Ethereum-Architects/knowledge/edit/master/List-of-Architects.md).
+
+Please visit [our wiki](https://github.com/Ring-of-Ethereum-Architects/knowledge/wiki) for more details.
 
 ## TOC
 * Comparative Studies:
