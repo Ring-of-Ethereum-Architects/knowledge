@@ -10,3 +10,5 @@ For more details [please read here](https://github.com/Ring-of-Ethereum-Architec
 | contributer | can contribute... | domains of interest... | work done... |
 |---|---|---|---|
 | [@ethernian](ethereum-magicians.org/u/ethernian)  | #solidity #truffle #swarm #TCR #ICO| #storage #TCR #ICO  | |
+| [@igorya7v](https://github.com/igorya7v)| #solidity #ICO #PaymentChannels #Web3J #CryptoTrading| #L2-StateChannels #StableCoins #ZKP | |
+
