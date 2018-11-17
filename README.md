@@ -7,12 +7,16 @@ Please visit [our wiki](https://github.com/Ring-of-Ethereum-Architects/knowledge
 
 ## TOC
 * Comparative Studies:
+   * Comparing PaymentChannels
    * Comparing ZKP
    * Comparing Plasma
    * Comparing Data Storage
    * Comparing devtools
 * Architectural Patterns:
 * [Resources](#Resources):
+
+### Knowledge Base:
+You will find it [here](base/).
 
 ### Resources:
 Here are Links to Resources useful for Architect Work
