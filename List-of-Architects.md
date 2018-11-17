@@ -7,7 +7,7 @@ In order to start contributing, add yourself to the list (creating a pull reques
 
 For more details [please read here](https://github.com/Ring-of-Ethereum-Architects/knowledge/wiki/List-of-Ethereum-Architects#about) 
 
-| Architect | You can ask me about ... | I am interested in... | Work done... |
+| Architect | You can ask me about ... | I am interested in... | I did... |
 |---|---|---|---------|
 | [@ethernian](ethereum-magicians.org/u/ethernian)  | #solidity #truffle #swarm #TCR #ICO #CryptoEconomy| #storage #TCR #ICO #CryptoEconomy | this [repo](README.md) & [wiki](../../wiki)|
 | [@igorya7v](https://github.com/igorya7v)| #solidity #ICO #PaymentChannels #Web3J #CryptoTrading| #L2-StateChannels #StableCoins #ZKP | |
