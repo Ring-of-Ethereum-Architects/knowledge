@@ -12,6 +12,7 @@ Please visit [our wiki](https://github.com/Ring-of-Ethereum-Architects/knowledge
    * Comparing Plasma
    * Comparing Data Storage
    * Comparing devtools
+* Technology UseCases:   
 * Architectural Patterns:
 * [Resources](#Resources):
 
