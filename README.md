@@ -1,7 +1,7 @@
 # Welcome
 **A lot of thanks** for all [Ethereum Architects](List-of-Architects.md) contributed to this knowledge base.
 
-[Add youself](https://github.com/Ring-of-Ethereum-Architects/knowledge/edit/master/List-of-Architects.md) to the [List of Ethereum Architects](List-of-Architects.md) **if you would like to join**. <br/> In order to change the list, you don't need to fork the repo, just edit the list and create a new PR.
+[Add youself](https://github.com/Ring-of-Ethereum-Architects/knowledge/edit/master/List-of-Architects.md) to the [List of Ethereum Architects](List-of-Architects.md) **if you would like to contribute** or let us know **if you would like to become an Editor**. <br/> In order to change the list of architects, you don't need to fork the repo, just edit the list and create a new PR.
 
 Please visit [our wiki](https://github.com/Ring-of-Ethereum-Architects/knowledge/wiki) for more details.
 
