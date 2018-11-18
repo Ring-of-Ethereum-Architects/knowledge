@@ -6,7 +6,7 @@
 Please visit [our wiki](https://github.com/Ring-of-Ethereum-Architects/knowledge/wiki) for more details.
 
 ## TOC
-* Comparative Studies:
+* [Comparative Studies](base/ComparativeStudies):
    * Comparing PaymentChannels
    * Comparing ZKP
    * Comparing Plasma
