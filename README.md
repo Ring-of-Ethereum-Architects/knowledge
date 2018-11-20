@@ -25,3 +25,4 @@ Here are Links to Resources useful for Architect Work
 - [Week in Ethereum (by Evan Van Ness)](http://www.weekinethereum.com). Kudos to [@ethernian](https://ethereum-magicians.org/u/ethernian)
 - [Ethereum Developer Tools List (by ConsenSys)](https://github.com/ConsenSys/ethereum-developer-tools-list). Kudos to [@wschwab](https://ethereum-magicians.org/u/wschwab)
 - [Awesome ZKP](https://github.com/gluk64/awesome-zkp). Kudos to [@gluk64](https://github.com/gluk64@)
+- Running Research on Distributed DB by uport: [here](https://github.com/uport-project/3box/issues/351)
