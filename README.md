@@ -10,7 +10,8 @@ Please visit [our wiki](https://github.com/Ring-of-Ethereum-Architects/knowledge
    * Comparing PaymentChannels
    * Comparing ZKP
    * Comparing Plasma
-   * Comparing Data Storage
+   * Comparing [DistributedStorage](base/ComparativeStudies/01-DistributedStorage.md)
+   * Comparing [MessagingProtocols](base/ComparativeStudies/02-MessagingProtocols.md)
    * Comparing devtools
 * Technology UseCases:   
 * Architectural Patterns:
