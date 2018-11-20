@@ -1,4 +1,4 @@
-#### Comparative Study by [@ethernian](https://ethereum-magicians.org/u/ethernian/)
+#### Comparative Study by [@ethernian](https://ethereum-magicians.org/u/ethernian/) *(and you?)*
 #  Distributed Storage
 
 Comparing distributed storages.
@@ -10,9 +10,8 @@ Highlighting trade-offs and design choice made.
 * [Resources](#resources)
 * [ToDo](#todo)
 * [History](#history)
-## Comparison Matrix
-_fill one of two the tables_
 
+## Comparison Matrix
 |                | Aspect 1 | Aspect 2 | Aspect 3 | ... | Notes |  
 |----------------|----------|----------|----------|-----|-------|
 |**Swarm**       |          |          |          |     |       |
@@ -40,5 +39,5 @@ _fill one of two the tables_
 
 | Author     | Date | Notice |
 |------------|------|--------|
-|[@ethernian](https://ethereum-magicians.org/u/ethernian)| 20.11.2018| | created initial version |     
+|[@ethernian](https://ethereum-magicians.org/u/ethernian)| 20.11.2018| created initial version |     
 
