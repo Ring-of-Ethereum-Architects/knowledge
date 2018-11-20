@@ -20,9 +20,9 @@ Highlighting trade-offs and design choice made.
 |**[BigchainDB](https://www.bigchaindb.com)**  |          |          |          |     |       |
 |**[Fluence](https://fluence.one)**     |          |          |          |     |       |
 | **[3Box](https://github.com/uport-project/3box)**       |          |          |          |     |  by [uport](https://github.com/uport-project)     |
+| **[OrbitDB](https://github.com/orbitdb/orbit-db)**    |          |          |          |     |      |
 | **SSB**        |          |          |          |     |  [?](#unknownItem)     |
 | **GUN**        |          |          |          |     |  [?](#unknownItem) [here?](https://gun.eco)    |
-| **[OrbitDB](https://github.com/orbitdb/orbit-db)**    |          |          |          |     |      |
 
 
 
