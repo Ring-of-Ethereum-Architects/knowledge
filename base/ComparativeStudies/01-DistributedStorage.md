@@ -14,15 +14,15 @@ Highlighting trade-offs and design choice made.
 ## Comparison Matrix
 |                | Aspect 1 | Aspect 2 | Aspect 3 | ... | Notes |  
 |----------------|----------|----------|----------|-----|-------|
-|**Swarm**       |          |          |          |     |       |
-|**IPFS**        |          |          |          |     |       |
-|**WolkDB**      |          |          |          |     |       |
-|**BigchainDB**  |          |          |          |     |       |
-|**Fluence**     |          |          |          |     |       |
-| **3Box**       |          |          |          |     |  [?](#unknownItem)     |
-| **SSB**        |          |          |          |     |  ?     |
-| **GUN**        |          |          |          |     |  ?     |
-| **OrbitDB**    |          |          |          |     |  ?     |
+|**[Swarm](http://swarm-gateways.net/bzz:/theswarm.eth/)**       |          |          |          |     |       |
+|**[IPFS](https://ipfs.io)**        |          |          |          |     |       |
+|**[WolkDB/SwarmDB](https://github.com/wolkdb/swarmdb/wiki)**      |          |          |          |     |       |
+|**[BigchainDB](https://www.bigchaindb.com)**  |          |          |          |     |       |
+|**[Fluence](https://fluence.one)**     |          |          |          |     |       |
+| **[3Box](https://github.com/uport-project/3box)**       |          |          |          |     |  by [uport](https://github.com/uport-project)     |
+| **SSB**        |          |          |          |     |  [?](#unknownItem)     |
+| **GUN**        |          |          |          |     |  [?](#unknownItem) [here?](https://gun.eco)    |
+| **[OrbitDB](https://github.com/orbitdb/orbit-db)**    |          |          |          |     |      |
 
 
 
