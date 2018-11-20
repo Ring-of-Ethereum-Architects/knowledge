@@ -39,5 +39,5 @@ Highlighting trade-offs and design choice made.
 
 | Author     | Date | Notice |
 |------------|------|--------|
-|[@ethernian](https://ethereum-magicians.org/u/ethernian)| 20.11.2018| created initial version |     
+|[@ethernian](https://ethereum-magicians.org/u/ethernian)| 20.11.2018| initial version |     
 
