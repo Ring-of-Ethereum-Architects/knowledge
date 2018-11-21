@@ -21,16 +21,15 @@ Highlighting trade-offs and design choice made.
 |**[Fluence](https://fluence.one)**     |          |          |          |     |       |
 | **[3Box](https://github.com/uport-project/3box)**       |          |          |          |     |  by [uport](https://github.com/uport-project)     |
 | **[OrbitDB](https://github.com/orbitdb/orbit-db)**    |          |          |          |     |      |
-| **SSB**        |          |          |          |     |  [?](#unknownItem)     |
-| **GUN**        |          |          |          |     |  [?](#unknownItem) [here?](https://gun.eco)    |
+| **[SSB](https://github.com/ssbc/ssb-db)**        |          |          |          |     |  [from here](#3box-research)     |
+| **[GUN](https://gun.eco)**        |          |          |          |     |  [here?](#3box-research)    |
 
 
 
 ## Details and Explanations
-1. <a name="unknownItem"></a> unknown. please verify.  
 
 ## Resources
-* comparing DBs by [uport](https://github.com/uport-project/3box/issues/351)
+* <a name="3box-research"></a> comparing DBs by [uport](https://github.com/uport-project/3box/issues/351)
 
 ## ToDo
 1. Add comparison aspects
