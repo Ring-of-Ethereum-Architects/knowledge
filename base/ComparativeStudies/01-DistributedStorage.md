@@ -7,7 +7,7 @@ Highlighting trade-offs and design choice made.
 ## TOC
 * [Comparison Matrix](#comparison-matrix) 
 * [Details and Explanations](#Details-and-Explanations)
-   * [Trade-offs and Typical Design Choices](Trade-offs-and-Typical-Design-Choices)
+   * [Trade-offs and Typical Design Choices](#trade-offs-and-typical-design-choices)
 * [Resources](#resources)
 * [ToDo](#todo)
 * [History](#history)
