@@ -29,7 +29,7 @@ Highlighting trade-offs and design choice made.
 ## Details and Explanations
 
 ## Resources
-* <a name="3box-research"></a> comparing DBs by [uport](https://github.com/uport-project/3box/issues/351)
+* <a name="3box-research"></a> [comparing DBs](https://github.com/uport-project/3box/issues/351) by uport.
 
 ## ToDo
 1. Add comparison aspects
