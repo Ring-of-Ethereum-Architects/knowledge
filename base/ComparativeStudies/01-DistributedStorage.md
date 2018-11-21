@@ -22,7 +22,7 @@ Highlighting trade-offs and design choice made.
 | **[3Box](https://github.com/uport-project/3box)**       |          |          |          |     |  by [uport](https://github.com/uport-project)     |
 | **[OrbitDB](https://github.com/orbitdb/orbit-db)**    |          |          |          |     |      |
 | **[SSB](https://github.com/ssbc/ssb-db)**        |          |          |          |     |  [from here](#3box-research)     |
-| **[GUN](https://gun.eco)**        |          |          |          |     |  [here?](#3box-research)    |
+| **[GUN](https://gun.eco)**        |          |          |          |     |  [from here](#3box-research)    |
 
 
 
@@ -38,5 +38,6 @@ Highlighting trade-offs and design choice made.
 
 | Author     | Date | Notice |
 |------------|------|--------|
+|[@ethernian](https://ethereum-magicians.org/u/ethernian)| 21.11.2018| added links |     
 |[@ethernian](https://ethereum-magicians.org/u/ethernian)| 20.11.2018| initial version |     
 
