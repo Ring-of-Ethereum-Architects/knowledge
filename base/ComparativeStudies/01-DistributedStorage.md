@@ -7,6 +7,7 @@ Highlighting trade-offs and design choice made.
 ## TOC
 * [Comparison Matrix](#comparison-matrix) 
 * [Details and Explanations](#Details-and-Explanations)
+   * [Trade-offs and Typical Design Choices](Trade-offs-and-Typical-Design-Choices)
 * [Resources](#resources)
 * [ToDo](#todo)
 * [History](#history)
@@ -27,6 +28,7 @@ Highlighting trade-offs and design choice made.
 
 
 ## Details and Explanations
+### Trade-offs and Typical Design Choices
 
 ## Resources
 * <a name="3box-research"></a> [comparing DBs](https://github.com/uport-project/3box/issues/351) by uport.
