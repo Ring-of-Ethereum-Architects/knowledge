@@ -17,6 +17,7 @@ Highlighting trade-offs and design choice made.
 |------------|----------|----------|----------|-----|-------|
 |**Whisper** |          |          |          |     |       |
 |**PSS**     |          |          |          |     |       |
+|**[Streamr](https://twitter.com/streamr)**     |          |          |          |     |       |
 | **...**    |          |          |          |     |       |
 
 ## Details and Explanations
