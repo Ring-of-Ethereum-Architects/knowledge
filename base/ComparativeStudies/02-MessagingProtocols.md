@@ -15,8 +15,9 @@ Highlighting trade-offs and design choice made.
 
 |            | Privacy (Darkness) | Aspect 2 | Aspect 3 | ... | Notes |  
 |------------|----------|----------|----------|-----|-------|
-|**Whisper** |          |          |          |     |       |
-|**PSS**     |          |          |          |     |       |
+|**[Whisper](https://github.com/ethereum/wiki/wiki/Whisper)** |          |          |          |     |       |
+|**[PSS](https://github.com/ethereum/go-ethereum/tree/master/swarm/pss)**     |          |          |          |     |  by [Swarm](https://github.com/ethereum/go-ethereum/tree/master/swarm)     |
+| **[Dark Routing](https://mainframe.com/protocol/dark-routing/)** |          |          |          |     |  by [mainframe](https://mainframe.com)     |
 |**[Streamr](https://twitter.com/streamr)**     |          |          |          |     |       |
 | **...**    |          |          |          |     |       |
 
@@ -24,7 +25,7 @@ Highlighting trade-offs and design choice made.
 ### Trade-offs and Typical Design Choices
 
 ## Resources
-_{More external links come here }_
+* [@zelig about PSS](https://gist.github.com/zelig/d52dab6a4509125f842bbd0dce1e9440)
 
 ## ToDo
 
