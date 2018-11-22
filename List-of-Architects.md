@@ -13,7 +13,7 @@ For more details [please read here](https://github.com/Ring-of-Ethereum-Architec
 
 | Architect | You can ask me about ... | I am interested in... | I did... |
 |---|---|---|---------|
-| [@ethernian](ethereum-magicians.org/u/ethernian)  | #solidity #truffle #swarm #TCR #ICO #CryptoEconomy| #storage #TCR #ICO #CryptoEconomy | this [repo](README.md) & [wiki](../../wiki)|
+| [@ethernian](ethereum-magicians.org/u/ethernian)  | #solidity #truffle #swarm #TCR #ICO #CryptoEconomy| #OffchainStorage #TCR #ICO #CryptoEconomy | this [repo](README.md) & [wiki](../../wiki)|
 | [@igorya7v](https://github.com/igorya7v)| #solidity #ICO #PaymentChannels #Web3J #CryptoTrading| #L2-StateChannels #StableCoins #ZKP | |
 | [@pitkevich](https://github.com/pitkevich)| #patterns #EnterpriseAdoption #NFR #governance| #patterns #CryptoEconomy #ZKP #governance| |
 | [@atoulme](https://github.com/atoulme) | #quorum #constellation #evm #eea | #offchainstorage #whisper #support #enterprisedeployments | |
