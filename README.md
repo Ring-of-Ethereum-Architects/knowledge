@@ -9,7 +9,7 @@ Please visit [our wiki](https://github.com/Ring-of-Ethereum-Architects/knowledge
 
 ## TOC
 * [Comparative Studies](base/ComparativeStudies):
-   * Comparing PaymentChannels
+   * Comparing [State- and PaymentChannels](base/ComparativeStudies/03-StateChannels.md)
    * Comparing ZKP
    * Comparing Plasma
    * Comparing [DistributedStorage](base/ComparativeStudies/01-DistributedStorage.md)
