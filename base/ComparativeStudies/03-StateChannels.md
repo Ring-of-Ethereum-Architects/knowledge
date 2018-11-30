@@ -12,13 +12,15 @@ Highlighting trade-offs and design choice made.
 * [History](#history)
 ## Comparison Matrix
 
-|            | Aspect 1 | Aspect 2 | Aspect 3 | ... | Notes |  
+|            | Status | Type | Features | Open Source | Notes |  
 |------------|----------|----------|----------|-----|-------|
+|**Sample**  | Live/Not Live  | payment channel/generalised state channel | scalable, fast, private, any ERC20, low fees | yes |       |
 |**[Raiden](https://raiden.network/)**  |   |          |          |     |       |
 |**[Perun](https://perun.network/)**  |          |    |          |     |       |
 |**[Connext](https://connext.network/)**  |          |          |       |     |       |
 |**[Counterfactual](https://www.counterfactual.com/)**  |          |          |          |     |       |
 |**[Celer](https://www.celer.network/)**    |          |          |          |     |       |
+|**[SpankChain](https://github.com/spankchain/)**    |          |          |          |     |       |
 |**[Pisa](https://github.com/PISAresearch/pisa)**    |          |          |          |     |       |
 |**[Plasma](https://www.learnplasma.org/en/)**    |          |          |          |     |       |
 
