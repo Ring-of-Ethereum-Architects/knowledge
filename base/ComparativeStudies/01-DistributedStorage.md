@@ -1,3 +1,4 @@
+// WORK in PROGRESS
 #### Comparative Study by [@ethernian](https://ethereum-magicians.org/u/ethernian/) *(and you?)*
 #  Distributed Storage
 
@@ -13,7 +14,7 @@ Highlighting trade-offs and design choice made.
 * [History](#history)
 
 ## Comparison Matrix
-|                | Aspect 1 | Aspect 2 | Aspect 3 | ... | Notes |  
+|                | StorageType | ValidityProof | Aspect 3 | ... | Notes |  
 |----------------|----------|----------|----------|-----|-------|
 |**[Swarm](http://swarm-gateways.net/bzz:/theswarm.eth/)**       |          |          |          |     |       |
 |**[IPFS](https://ipfs.io)**        |          |          |          |     |       |
@@ -21,14 +22,27 @@ Highlighting trade-offs and design choice made.
 |**[BigchainDB](https://www.bigchaindb.com)**  |          |          |          |     |       |
 |**[Fluence](https://fluence.one)**     |          |          |          |     |       |
 | **[3Box](https://github.com/uport-project/3box)**       |          |          |          |     |  by [uport](https://github.com/uport-project)     |
+| **[Bluzelle](https://bluzelle.com)**    |          |          |          |     |      |
 | **[OrbitDB](https://github.com/orbitdb/orbit-db)**    |          |          |          |     |      |
 | **[SSB](https://github.com/ssbc/ssb-db)**        |          |          |          |     |  [from here](#3box-research)     |
 | **[GUN](https://gun.eco)**        |          |          |          |     |  [from here](#3box-research)    |
 
 
+StorageType
+* KeyValue
+* Blob(File)
+* SQL
+* ArbitraryComputation
+
+ValidityProof (
+* IntegrityCheck: Hash
+* VerificagionGame (Fluence)
+* WolkDB: cryptografic veriable SQL?
 
 ## Details and Explanations
 ### Trade-offs and Typical Design Choices
+
+Fluence builds on Swarm
 
 ## Resources
 * <a name="3box-research"></a> [comparing DBs](https://github.com/uport-project/3box/issues/351) by uport.
