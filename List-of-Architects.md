@@ -17,3 +17,4 @@ For more details [please read here](https://github.com/Ring-of-Ethereum-Architec
 | [@igorya7v](https://github.com/igorya7v)| #solidity #ICO #PaymentChannels #Web3J #CryptoTrading| #L2-StateChannels #StableCoins #ZKP | |
 | [@pitkevich](https://github.com/pitkevich)| #patterns #EnterpriseAdoption #NFR #governance| #patterns #CryptoEconomy #ZKP #governance| |
 | [@atoulme](https://github.com/atoulme) | #quorum #constellation #evm #eea | #offchainstorage #whisper #support #enterprisedeployments | |
+| [@AmarRSingh](https://github.com/AmarRSingh) | #Rust #RadicalMarkets #L2 #eea | #zeroknowledge #mpc #ecc #cryptoeconomics | |
