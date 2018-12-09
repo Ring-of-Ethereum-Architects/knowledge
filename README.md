@@ -13,7 +13,7 @@ Please visit [our wiki](https://github.com/Ring-of-Ethereum-Architects/knowledge
    * Comparing ZKP
    * Comparing Plasma
    * Comparing [DistributedStorage](base/ComparativeStudies/01-DistributedStorage.md)
-   * Comparing [MessagingProtocols](base/ComparativeStudies/02-MessagingProtocols.md)
+   * Comparing [MessagingProtocols](base/ComparativeStudies/02-MessagingProtocols.pdf) [working copy](https://docs.google.com/document/d/1vjsQgm48atUtIKhuTfbfu2NZ9uYA_-FRE9abBrOV0iM/edit)
    * Comparing devtools
 * Technology UseCases:   
 * Architectural Patterns:
