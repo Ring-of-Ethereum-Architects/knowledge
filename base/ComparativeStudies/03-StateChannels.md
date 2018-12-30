@@ -30,7 +30,9 @@ Highlighting trade-offs and design choice made.
 1. <a name="e2">2</a> Explanation to Aspect2/Item2
 
 ## Resources
-_{More external links come here }_
+* [An Empirical implementation of state channels from IC3-ETH by Patrick McCorry](https://github.com/stonecoldpat/statechannels)
+  * [relevant repo](https://github.com/stonecoldpat/empirical-evaluation-state-channels)
+* [The state of state channels: 2018 edition](https://blog.coinfund.io/the-state-of-state-channels-2018-edition-f5492134ab96) -- Coinfund 
 
 ## ToDo
 1. Add comparison aspects.
